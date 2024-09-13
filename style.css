@@ -20,8 +20,8 @@ ul {
 }
 
 body > header {
-    background-color: orange;
-    color: white;  
+    background-color: #674636;
+    color: #F7EED3;  
     display: flex;
     height: 12vh;
     align-items: center;
@@ -43,10 +43,10 @@ body > header > nav > ul {
 }
 
 .navbutton {
-color: white;
+color: #F7EED3;
 text-decoration: none;
 padding: 12px;
-border: 1px solid white;
+border: 1px solid #F7EED3;
 border-radius: 10%;
 }
 
@@ -73,7 +73,7 @@ h2 {
 }
 
 body > footer {
-    background-color: orange;
+    background-color: #674636;
     display: flex;
 }
 
@@ -96,5 +96,5 @@ img {
 
 #footer-ul > div > li > a {
     text-decoration: none;
-    color: white;
+    color: #F7EED3;
 }
