@@ -1,7 +1,14 @@
 html, body {
     margin: 0;
     padding: 0;
+    height: 100%;
 } 
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
 
 body {
     font-family:  Helvetica, Arial, sans-serif;
@@ -101,11 +108,12 @@ img {
     list-style: none;
 }
 
-#footer-ul > div > li {
-    margin-left: 12px;  
+#footer-ul > li {
+    padding: 8px;
+    margin: 16px;  
 }
 
-#footer-ul > div > li > a {
+#footer-ul > li > a {
     text-decoration: none;
     color: #F7EED3;
 }
