@@ -73,10 +73,8 @@ h2 {
 body > footer {
     background-color: #674636;
     display: flex;
-
-    
     color: #F7EED3;  
-    height: 12vh;
+    height: 16vh;
     align-items: center;
     justify-content: space-around;
 }
@@ -96,6 +94,8 @@ img {
 
 #footer-ul > div > li {
     margin-left: 12px;  
+    padding: 8px;
+    margin: 16px;
 }
 
 #footer-ul > div > li > a {
