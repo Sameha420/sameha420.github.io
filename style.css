@@ -43,11 +43,9 @@ body > header > nav > ul {
 }
 
 .navbutton {
-color: #F7EED3;
-text-decoration: none;
-padding: 12px;
-border: 1px solid #F7EED3;
-border-radius: 10%;
+    color: #F7EED3;
+    text-decoration: none;
+    padding: 12px;
 }
 
 body > main article {
