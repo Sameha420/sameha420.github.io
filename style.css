@@ -73,6 +73,12 @@ h2 {
 body > footer {
     background-color: #674636;
     display: flex;
+
+    
+    color: #F7EED3;  
+    height: 12vh;
+    align-items: center;
+    justify-content: space-around;
 }
 
 ul {
