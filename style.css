@@ -49,6 +49,11 @@ body > header {
     margin: 16px;
 }
 
+body > main > div > div > article > header {
+    background-color: #FFF8E8;
+    color: #674636;  
+}
+
 body > header > nav > ul {
     list-style: none;
     text-decoration: none;
