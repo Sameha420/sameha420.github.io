@@ -78,6 +78,11 @@ body > main article {
     margin-left: 20px;
 }
 
+body > main > div > div > article > footer {
+    background-color: #F7EED3;
+    color: #674636;  
+}
+
 form {
     text-align: center;
 }
@@ -101,6 +106,18 @@ ul {
 
 img {
     border-radius: 0;
+}
+
+#footer-logo {
+    margin: 0px;
+    padding: 8px;
+    font-family: "Fredoka One";
+    width: 40%;
+    text-shadow:
+    -1px -1px 0 black,
+    1px -1px 0 black,
+    -1px 1px 0 black,
+    1px 1px 0 black;    
 }
 
 #footer-ul {
